@@ -1,4 +1,5 @@
 Cadastro de Celulares
+---------------------
 Este é um programa desenvolvido em Python utilizando a biblioteca Tkinter para criar uma interface gráfica. O programa permite o cadastro de informações de celulares, tais como nome, departamento, telefone, modelo, número de série e IMEI, além de associar esses dados a um endereço de e-mail.
 
 Funcionalidades Principais:
